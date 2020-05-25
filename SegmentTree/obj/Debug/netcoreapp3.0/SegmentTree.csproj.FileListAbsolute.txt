@@ -1,0 +1,11 @@
+C:\Users\jows1\source\repos\SegmentTree\SegmentTree\bin\Debug\netcoreapp3.0\SegmentTree.exe
+C:\Users\jows1\source\repos\SegmentTree\SegmentTree\bin\Debug\netcoreapp3.0\SegmentTree.deps.json
+C:\Users\jows1\source\repos\SegmentTree\SegmentTree\bin\Debug\netcoreapp3.0\SegmentTree.runtimeconfig.json
+C:\Users\jows1\source\repos\SegmentTree\SegmentTree\bin\Debug\netcoreapp3.0\SegmentTree.runtimeconfig.dev.json
+C:\Users\jows1\source\repos\SegmentTree\SegmentTree\bin\Debug\netcoreapp3.0\SegmentTree.dll
+C:\Users\jows1\source\repos\SegmentTree\SegmentTree\bin\Debug\netcoreapp3.0\SegmentTree.pdb
+C:\Users\jows1\source\repos\SegmentTree\SegmentTree\obj\Debug\netcoreapp3.0\SegmentTree.csprojAssemblyReference.cache
+C:\Users\jows1\source\repos\SegmentTree\SegmentTree\obj\Debug\netcoreapp3.0\SegmentTree.AssemblyInfoInputs.cache
+C:\Users\jows1\source\repos\SegmentTree\SegmentTree\obj\Debug\netcoreapp3.0\SegmentTree.AssemblyInfo.cs
+C:\Users\jows1\source\repos\SegmentTree\SegmentTree\obj\Debug\netcoreapp3.0\SegmentTree.dll
+C:\Users\jows1\source\repos\SegmentTree\SegmentTree\obj\Debug\netcoreapp3.0\SegmentTree.pdb
